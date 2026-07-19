@@ -1,11 +1,3 @@
-# Standards That Can Lose
-
-### An Epistemic-Fiduciary Constitution for the University
-
----
-
-by Peter Kahl, 2025-06-19; v2: 2025-09-15; v3.0: 2026-07-18
-
 ![Prussian-blue intaglio engraving of a classical university drawing itself into existence. A large hand with a pen completes the unfinished edge of the building, where solid engraved stone gives way to faint construction lines and blank paper. Titled ‘STANDARDS THAT CAN LOSE’, the image symbolises the paper’s central claim: institutional standards are constructed rather than fixed, and legitimate governance depends on keeping them capable of lawful revision. A narrow ribbon at the bottom carries the paper’s citation.](https://github.com/Peter-Kahl/Standards-That-Can-Lose/blob/main/standars-can-lose.jpg?raw=true)
 
 ## Abstract
