@@ -23,7 +23,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 
 ## Cite this work
 
-Peter Kahl, ‘Standards That Can Lose: An Epistemic-Fiduciary Constitution for the University’ (Lex et Ratio Ltd Working Paper LXR-2026-LAW-EPISTO-WP, Version 3.0, 18 July 2026) doi:10.13140/RG.2.2.14076.09603.
+Peter Kahl, ‘Standards That Can Lose: An Epistemic-Fiduciary Constitution for the University’ (Lex et Ratio Ltd Working Paper LXR-2026-LAW-EPISTO-WP, Version 3.0, 18 July 2026) doi:10.5281/zenodo.21468283 (alternate doi:10.13140/RG.2.2.14076.09603)
 
 ## Publisher & Licence
 
